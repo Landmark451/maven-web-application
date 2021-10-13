@@ -12,8 +12,7 @@
 <h1 align="center">Landmark Technologies.</h1>
 <h2 align="center"> Welcome to Landmark Technologies.
 	Landmark Technologies is a an online training platform for deveops and cloud engineers and software development company. 
-	we offer interview preparations and job assistance 
-	Class26 will run from October 2, 2021.
+	we offer interview preparations and job assistance Class26 will run from October 2, 2021.
 	The shout of the King is in our midst. His name is Jesus Christ. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
